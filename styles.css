@@ -1,0 +1,57 @@
+body {
+    background-color: #1a1d20;
+}
+
+.table-content {
+    margin-top: 100px;
+}
+
+.action-icon {
+    font-size: 20px;
+}
+
+.action-icon:hover {
+    cursor: pointer;
+}
+
+.edit-icon {
+    color: #ffc107
+}
+
+.delete-icon {
+    margin-left: 20px;
+    color: #ff3232;
+}
+
+.no-users-alert {
+    text-align:center;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px 0px;
+}
+
+.table-controls {
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+
+.modal-header-styles {
+    background-color: #343a40;
+}
+
+.modal-title-styles {
+    color: white;
+}
+
+.modal-body-styles {
+    background-color: #343a40;
+}
+
+.modal-footer-styles {
+    background-color: #343a40;
+}
+
+form label {
+    color: white;
+}
